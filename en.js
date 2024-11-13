@@ -542,5 +542,6 @@ export const en = {
       "Error inscribing token. Please try again.",
     token_inscription_amount: "Token Inscription Amount",
     info: "Info",
+    retry: "Retry",
   },
 };
