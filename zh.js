@@ -90,9 +90,9 @@ export const zh = {
     price: "价格", // Price
     usd: "美元", // USD
     txs: "交易", // TXs
-    hr: "时间", // hr
+    hr: "小时", // hr
     send: "发送", // Send
-    receive: "收到", // Receive
+    receive: "接收", // Receive
     buy: "买", // Buy
     scan: "扫描", // Scan
     from: "从", // From
